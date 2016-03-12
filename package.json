@@ -1,0 +1,11 @@
+{
+  "name": "fcc_header_parser",
+  "version": "0.0.1",
+  "description": "A header parser for free code camp api challenge <http://www.freecodecamp.com/challenges/request-header-parser-microservice>",
+  "main": "server.js",
+  "repository": "",
+  "author": "James 'Techy' Davenport <https://github.com/JD-aka-Techy>",
+  "dependencies": {
+    "express": "~3.2.4"
+  }
+}
